@@ -1,1 +1,7 @@
-password.md
+*.txt
+*.docx
+*.pdf
+uploads/
+vendprs/
+
+!uploads/README.md
